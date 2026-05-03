@@ -179,7 +179,7 @@ The development followed a **hybrid methodology** combining:
 ---
 ##  Thesis Document
 
-- Spanish version: [Academic-Management-System-Thesis-ES.pdf](./Academic-Management-System-Thesis-ES.pdf)
+-  Spanish Version: [View Thesis](https://drive.google.com/file/d/15m_nMxm4P3wg0jlb07qrFO_XtzYyc90s/view)
 -  English Version: [View Thesis](https://drive.google.com/file/d/15m_nMxm4P3wg0jlb07qrFO_XtzYyc90s/view)
 ##  Author
 
