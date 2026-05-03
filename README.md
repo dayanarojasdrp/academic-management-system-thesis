@@ -179,10 +179,8 @@ The development followed a **hybrid methodology** combining:
 ---
 ##  Thesis Document
 
-This repository includes the full thesis in both Spanish and English:
-
--  Spanish Version: [Download Thesis (ES)](./Academic-Management-System-Thesis-ES.pages)
--  English Version: [Download Thesis (EN)](./Academic-Management-System-Thesis-EN.pages)
+- Spanish version: [Academic-Management-System-Thesis-ES.pdf](./Academic-Management-System-Thesis-ES.pdf)
+- English version: [Academic-Management-System-Thesis-EN.pdf](./Academic-Management-System-Thesis-EN.pdf)
 ##  Author
 
 **Dayana Rojas**
