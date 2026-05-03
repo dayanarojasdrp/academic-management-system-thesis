@@ -177,7 +177,12 @@ The development followed a **hybrid methodology** combining:
 * RUP (structured analysis and documentation)
 
 ---
+##  Thesis Document
 
+This repository includes the full thesis in both Spanish and English:
+
+-  Spanish Version: [Download Thesis (ES)](./Academic-Management-System-Thesis-ES.pages)
+-  English Version: [Download Thesis (EN)](./Academic-Management-System-Thesis-EN.pages)
 ##  Author
 
 **Dayana Rojas**
