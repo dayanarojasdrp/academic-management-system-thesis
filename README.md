@@ -108,8 +108,8 @@ https://github.com/dayanarojasdrp/vue-app-git-github
 ##  Repository Structure
 
 ```txt
-thesis/
-  thesis.pdf
+Academic-Management-System-Thesis-ES.pdf
+Academic-Management-System-Thesis-EN.pdf
   docs/
     architecture/
     diagrams/
